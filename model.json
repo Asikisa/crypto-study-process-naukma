@@ -1,0 +1,71 @@
+[
+     {
+        "fullName" : "Kryuchkova Anastasia Sergiivna",
+         "email": "firstname.secondname@ukma.edu.ua",
+         "faculty" : "IT",
+        "specialty": "Applied Math",
+        "year" : 3,
+        "semesters" : [
+        {
+            "semester": 1,
+            "subjects": [
+                {
+                    "name": "Discrete Mathematics",
+                    "lector": "firstname.secondname@ukma.edu.ua",
+                    "average": 81,
+                    "themes": [
+                        {
+                            "title": "Basic graph theory",
+                            "passRate": 30,
+                            "examDate": "11.12.2020"
+                        },
+                        {
+                            "title": "Combinatorics",
+                            "passRate": 40,
+                            "examDate": "15.12.2020"
+                        }
+                    ]
+                },
+
+                 {
+                     "name" : "Mathematical Analysis",
+                    "lector": "firstname.secondname@ukma.edu.ua",
+                    "average": 89,
+                    "themes": [
+                        {
+                            "title": "Functions and its graphs",
+                            "passRate": 35,
+                            "examDate": "19.11.2020"
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "semester": 2,
+            "subjects": [
+
+                 {
+                    "name": "Theory of Algorithms and Mathematical Logic",
+                    "lector": "firstname.secondname@ukma.edu.ua",
+                    "average": 96,
+                    "themes": [
+                        {
+                            "title": "Foundations of the set theory",
+                            "passRate": 43,
+                            "examDate": "16.04.2021"
+                        },
+                        {
+                            "title": "Propositional logic",
+                            "passRate": 32,
+                            "examDate": "17.04.2021"
+                        }
+                    ]
+                }
+
+            ]
+        }
+    ]
+}
+]
